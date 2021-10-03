@@ -1,0 +1,1 @@
+This repo contains simple python projects that I have completed or am currently working on.

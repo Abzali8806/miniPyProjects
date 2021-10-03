@@ -1,0 +1,1 @@
+This simple calculator is the first of these simple python projects
